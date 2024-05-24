@@ -31,6 +31,7 @@ This Python script generates a seating plan for students based on clustering. Th
 Install dependencies using:
 ```bash
 pip install -r requirements.txt
+```
 
-Authors
+## Author
 Muhammad Saif
