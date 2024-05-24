@@ -1,4 +1,4 @@
-# Seating Plan Generator for Exams
+# Automated Seating Plan Generator for Exams
 
 This Python script generates a seating plan for students based on clustering. The seating plan assigns students to exam rooms and allocates faculty members to each room. 
 
